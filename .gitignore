@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# For MacOs
+*.DS_Store
+
+# Ignore intelije Folders
+*.idea/
