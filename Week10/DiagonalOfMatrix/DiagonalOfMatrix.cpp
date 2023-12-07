@@ -1,0 +1,1 @@
+/* Write a program to print out all the elements on the diagonal and the non-primary diagonal of a matrix*/

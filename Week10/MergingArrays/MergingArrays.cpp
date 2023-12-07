@@ -1,0 +1,1 @@
+/* Make a function that takes in two arrays and their sizes and return a new array that is the combination of both arrays*/

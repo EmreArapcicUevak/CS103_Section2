@@ -1,0 +1,1 @@
+/* Make a function that counts how many times a specific elements repeats in an array*/

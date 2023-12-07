@@ -1,0 +1,1 @@
+/* Make an function that prints out array's elemnts in a spirial like fashion*/

@@ -1,0 +1,1 @@
+/* Make a function that allows for insertion and delition of a specific element [deletion = setting to some default value]*/
